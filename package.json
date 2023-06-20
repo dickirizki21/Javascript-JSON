@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/dickirizki21/TugasPekanan3/issues"
   },
-  "homepage": "https://github.com/dickirizki21/TugasPekanan3#readme"
+  "homepage": "https://github.com/dickirizki21/TugasPekanan3#readme",
+  "dependencies": {
+    "prompt-sync": "^4.2.0"
+  }
 }
